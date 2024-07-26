@@ -10,7 +10,10 @@ This project is a starting point for a Flutter application.
 https://www.youtube.com/watch?v=J4Ejn8h8L1k
 
 ## Members:
-Bisco, Baby 
+Bisco, Baby
+
 Fajela, Ryan Jay
+
 Falceso,Fruit Jess
+
 Gayeta, Jinky
